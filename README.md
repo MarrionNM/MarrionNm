@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **InGroove**
+- 🔭 I’m currently working on a mobile solution called **InGroove**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Mechine Learning and Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 - 📫 How to reach me **77marrion@gmail.com**
 
