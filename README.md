@@ -55,14 +55,14 @@
 
 <!-- <a href="https://github.com/MarrionNM/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MarrionNM&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-<br/>
+<!-- <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/Nkosinathi-Mabuza/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
+</p> -->
 
 <!-- 
 ## ❤ Views and Followers
