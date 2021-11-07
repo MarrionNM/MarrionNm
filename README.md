@@ -18,7 +18,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
     <img src="https://img.icons8.com/color/48/000000/xamarin.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
