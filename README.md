@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a mobile solution called **InGroove**
+- 🔭 Working on a mobile solution startup
 
-- 🌱 I’m currently learning **Mechine Learning and Artificial Intelligence**
+- 🌱 Currently learning **Mechine Learning and Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
