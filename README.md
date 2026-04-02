@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Nkosinathi Marrion</h1>
 <h3 align="center">Young passionate Full Stack Developer.</h3>
@@ -69,4 +69,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MarrionNM">
 </a> -->
-<!-- <a href="https://github.com/MarrionNM?tab=followers"><img src="https://img.shields.io/github/followers/MarrionNM?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<!-- <a href="https://github.com/MarrionNM?tab=followers"><img src="https://img.shields.io/github/followers/MarrionNM?label=Followers&style=social" alt="GitHub Badge"></a> --> -->
